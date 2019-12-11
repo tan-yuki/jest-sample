@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "noEmit": true,
+    "types": ["jest"]
+  },
+  "include": [
+    "./typings/global.d.ts",
+    "./src/**/*.ts",
+    "./src/**/*.tsx"
+  ]
+}
