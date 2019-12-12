@@ -7,4 +7,5 @@ module.exports = {
     },
     __DEV__: true,
   },
+  setupFiles: ['./test/setup.ts'],
 };
