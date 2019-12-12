@@ -1,5 +1,4 @@
-import * as assert from 'power-assert';
-import * as $ from 'jquery';
+import assert from 'power-assert';
 import add from './index';
 
 describe(`add`, () => {

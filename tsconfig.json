@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es6",
     "noEmit": true,
-    "types": ["jest"]
+    "esModuleInterop": true
   },
   "include": [
     "./typings/global.d.ts",

@@ -1,5 +1,3 @@
-import * as $ from 'jquery';
-
 __DEV__ = true;
 
 export default function add(a: number, b: number): number {
