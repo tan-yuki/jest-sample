@@ -2,7 +2,8 @@
   "compilerOptions": {
     "target": "es6",
     "noEmit": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "jsx": "react"
   },
   "include": [
     "./typings/global.d.ts",
