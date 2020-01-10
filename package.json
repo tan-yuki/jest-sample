@@ -9,9 +9,19 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "@babel/plugin-transform-modules-commonjs": "^7.7.5",
+    "@babel/preset-env": "^7.7.7",
     "@types/jest": "^24.0.23",
+    "babel-jest": "^24.9.0",
+    "classnames": "^2.2.6",
     "jest": "^24.9.0",
     "power-assert": "^1.6.1",
+    "react-dom": "^16.12.0",
+    "react-intl": "^3.9.2",
+    "react-modal": "^3.11.1",
+    "regenerator-runtime": "^0.13.3",
     "ts-jest": "^24.2.0"
   },
   "dependencies": {
